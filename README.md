@@ -1,2 +1,2 @@
-This repository contains code  for my webpage which can eb accessed at www.cse.iitb.ac.in/~akash
+This repository contains code  for my webpage which can be accessed at www.cse.iitb.ac.in/~akash
 
